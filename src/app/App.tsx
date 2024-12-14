@@ -8,7 +8,6 @@ function App() {
     <>
       <Provider store={store}>
         <Cart />
-        ddddd
       </Provider>
     </>
   );

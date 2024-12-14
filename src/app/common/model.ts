@@ -1,14 +1,14 @@
 export const DoubleCantal = {
   title: "Double Cantal",
-  price: 15.99,
+  price: 10,
 };
 
 export const SuperCremeux = {
   title: "Super Crémeux",
-  price: 14.99,
+  price: 5,
 };
 
 export const PouletCroquant = {
   title: "Poulet Croquant",
-  price: 17.99,
+  price: 2.99,
 };
